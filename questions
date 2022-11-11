@@ -170,55 +170,34 @@
       }
     ]
   },
-  {
+  
+   {
     "id": "jlpt_n1_01_listening_c1",
-    "exam": "jlpt_n1_01_listening",
+    "exam": "jlpt_n1_01_reading",
     "part": "1.1",
     "order": 1,
-    "title": "１番：",
+    "title": "1",
     "question": {
       "type": "TEXT",
-      "title": "1."
+      "title": "駅前の店はどこも繁盛している。"
     },
     "answers": [
       {
-        "key": "A"
+        "key": "A",
+        "value": "びんしょう"
       },
       {
         "key": "B",
+        "value": "びんじょう"
+      },
+      {
+        "key": "C",
+        "value": "はんしょう"
+      },
+      {
+        "key": "D",
+        "value": "はんじょう",
         "correct": true
-      },
-      {
-        "key": "C"
-      },
-      {
-        "key": "D"
-      }
-    ]
-  },
-  {
-    "id": "jlpt_n1_01_listening_c2",
-    "exam": "jlpt_n1_01_listening",
-    "part": "1.1",
-    "order": 2,
-    "title": "１番：",
-    "question": {
-      "type": "PHOTO",
-      "title": "2."
-    },
-    "answers": [
-      {
-        "key": "A"
-      },
-      {
-        "key": "B",
-        "correct": true
-      },
-      {
-        "key": "C"
-      },
-      {
-        "key": "D"
       }
     ]
   }
