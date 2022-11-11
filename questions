@@ -8,8 +8,8 @@ const questions = [
     order: 1,
     title: 'Câu 1',
     question: {
-      type: Q_TYPES.PHOTO,
-      url: IMG_LANGUAGE.D1_L1,
+      type: 'PHOTO',
+      url: 'https://raw.githubusercontent.com/tranquocviet226/questions/main/images/d1_l1.jpg',
       title: '',
     },
     answers: [
@@ -36,8 +36,8 @@ const questions = [
     order: 2,
     title: 'Câu 2',
     question: {
-      type: Q_TYPES.PHOTO,
-      url: IMG_LANGUAGE.D1_L2,
+      type: 'PHOTO',
+      url: 'https://raw.githubusercontent.com/tranquocviet226/questions/main/images/d1_l2.jpg',
     },
     answers: [
       {
@@ -63,7 +63,7 @@ const questions = [
     order: 1,
     title: 'Câu 3',
     question: {
-      type: Q_TYPES.TEXT,
+      type: 'TEXT',
       title: '',
     },
     answers: [
@@ -90,7 +90,7 @@ const questions = [
     order: 2,
     title: 'Câu 4',
     question: {
-      type: Q_TYPES.TEXT,
+      type: 'TEXT',
       title: '',
     },
     answers: [
@@ -117,7 +117,7 @@ const questions = [
     order: 1,
     title: 'Câu 5',
     question: {
-      type: Q_TYPES.TEXT,
+      type: 'TEXT',
       title: 'Where does the conversation take place?',
     },
     answers: [
@@ -148,7 +148,7 @@ const questions = [
     order: 2,
     title: 'Câu 6',
     question: {
-      type: Q_TYPES.TEXT,
+      type: 'TEXT',
       title: 'When were the contracts mailed?',
     },
     answers: [
