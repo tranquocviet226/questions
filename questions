@@ -170,17 +170,41 @@
       }
     ]
   },
-   {
+  {
     "id": "jlpt_n1_01_listening_c1",
     "exam": "jlpt_n1_01_listening",
     "part": "1.1",
-    "type": "SINGLE",
     "order": 1,
-    "title": "Câu 1",
+    "title": "１番：",
+    "question": {
+      "type": "TEXT",
+      "title": "1."
+    },
+    "answers": [
+      {
+        "key": "A"
+      },
+      {
+        "key": "B",
+        "correct": true
+      },
+      {
+        "key": "C"
+      },
+      {
+        "key": "D"
+      }
+    ]
+  },
+  {
+    "id": "jlpt_n1_01_listening_c2",
+    "exam": "jlpt_n1_01_listening",
+    "part": "1.1",
+    "order": 2,
+    "title": "１番：",
     "question": {
       "type": "PHOTO",
-      "url": "https://raw.githubusercontent.com/tranquocviet226/questions/main/images/d1_l1.jpg",
-      "title": ""
+      "title": "2."
     },
     "answers": [
       {
