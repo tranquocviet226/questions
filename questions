@@ -350,5 +350,35 @@
         "value": "そうぞうしく"
       }
     ]
+  },
+  {
+    "id": "jlpt_n1_01_reading_c7",
+    "exam": "jlpt_n1_01_reading",
+    "part": "1.2",
+    "order": 7,
+    "title": "",
+    "question": {
+      "type": "TEXT",
+      "title": "の連載小説は全 12話で（    ）する。"
+    },
+    "answers": [
+      {
+        "key": "A",
+        "value": "静止"
+      },
+      {
+        "key": "B",
+        "value": "成就"
+      },
+      {
+        "key": "C",
+        "value": "完結",
+        "correct": true
+      },
+      {
+        "key": "D",
+        "value": "終息"
+      }
+    ]
   }
 ]
