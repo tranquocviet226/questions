@@ -171,12 +171,12 @@
     ]
   },
   
-   {
+  {
     "id": "jlpt_n1_01_reading_c1",
     "exam": "jlpt_n1_01_reading",
     "part": "1.1",
     "order": 1,
-    "title": "",
+    "title": "1",
     "question": {
       "type": "TEXT",
       "title": "<div>駅前の店はどこも<span style='text-decoration: underline;'>繁盛</span>している。</div>"
@@ -206,7 +206,7 @@
     "exam": "jlpt_n1_01_reading",
     "part": "1.1",
     "order": 2,
-    "title": "",
+    "title": "2",
     "question": {
       "type": "TEXT",
       "title": "<p><span style='text-decoration: underline;' data-mce-style='text-decoration: underline;'>翌飽</span>の内容については、こちらの書類をご覧ください。</p>"
