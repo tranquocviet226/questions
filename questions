@@ -230,5 +230,125 @@
         "value": "ようやく"
       }
     ]
+  },
+  {
+    "id": "jlpt_n1_01_reading_c3",
+    "exam": "jlpt_n1_01_reading",
+    "part": "1.1",
+    "order": 3,
+    "title": "",
+    "question": {
+      "type": "TEXT",
+      "title": "<p>3. この国は、昔から貿易によって<strong><span style='text-decoration: underline;' data-mce-style='text-decoration: underline;'>潤っ て</span></strong>きた。</p>"
+    },
+    "answers": [
+      {
+        "key": "A",
+        "value": "もうかって"
+      },
+      {
+        "key": "B",
+        "value": "まかなって"
+      },
+      {
+        "key": "C",
+        "value": "あきなって"
+      },
+      {
+        "key": "D",
+        "value": "うるおって",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "jlpt_n1_01_reading_c4",
+    "exam": "jlpt_n1_01_reading",
+    "part": "1.1",
+    "order": 4,
+    "title": "",
+    "question": {
+      "type": "TEXT",
+      "title": "<p>4. 警備が<span style='text-decoration: underline;' data-mce-style='text-decoration: underline;'><strong>手薄</strong></span>なところがないか調べた。</p>"
+    },
+    "answers": [
+      {
+        "key": "A",
+        "value": "しゅうす"
+      },
+      {
+        "key": "B",
+        "value": "しゅはく"
+      },
+      {
+        "key": "C",
+        "value": "てうす",
+        "correct": true
+      },
+      {
+        "key": "D",
+        "value": "てはく"
+      }
+    ]
+  },
+  {
+    "id": "jlpt_n1_01_reading_c5",
+    "exam": "jlpt_n1_01_reading",
+    "part": "1.1",
+    "order": 5,
+    "title": "",
+    "question": {
+      "type": "TEXT",
+      "title": "<p>5. 開発のために、古いビルが次々と<span style='text-decoration: underline;' data-mce-style='text-decoration: underline;'><strong>壊されて</strong></span>いる。</p>"
+    },
+    "answers": [
+      {
+        "key": "A",
+        "value": "こわされて",
+        "correct": true
+      },
+      {
+        "key": "B",
+        "value": "くずされて"
+      },
+      {
+        "key": "C",
+        "value": "たおされて"
+      },
+      {
+        "key": "D",
+        "value": "つぶされて"
+      }
+    ]
+  },
+  {
+    "id": "jlpt_n1_01_reading_c6",
+    "exam": "jlpt_n1_01_reading",
+    "part": "1.1",
+    "order": 6,
+    "title": "",
+    "question": {
+      "type": "TEXT",
+      "title": "<p>6. オリンピックが<span style='text-decoration: underline;' data-mce-style='text-decoration: underline;'><strong>華々しく</strong></span>開幕した 。</p>"
+    },
+    "answers": [
+      {
+        "key": "A",
+        "value": "はなばなしく",
+        "correct": true
+      },
+      {
+        "key": "B",
+        "value": "おもおもしく"
+      },
+      {
+        "key": "C",
+        "value": "ものものしく"
+      },
+      {
+        "key": "D",
+        "value": "そうぞうしく"
+      }
+    ]
   }
 ]
